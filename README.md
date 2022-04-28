@@ -17,4 +17,4 @@ Extended basic linked list implementation to do some pretty cool stuff. Also pla
 [Pull Request](https://github.com/minxie97/pythonisms/pull/1/)
 
 ## Tests
-[Tests]()
+[Tests](https://github.com/minxie97/pythonisms/blob/working/tests/test_pythonisms.py)
