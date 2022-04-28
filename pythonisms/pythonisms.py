@@ -32,10 +32,13 @@ class LinkedList:
     def __str__(self):
         output = ''
         for value in self:
-            out += f'[ {value } ] -> '
-        out += 'None'
+            output += f'[ {value } ] -> '
+        output += 'None'
         return output
 
+    def __add__(self, other):
+        sum_list = list(self) + list(other)
+        return LinkedList(sum_list)
 
 class Node:
     def __init__(self, value, next_ = None):
