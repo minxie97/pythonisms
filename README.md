@@ -14,7 +14,7 @@ Extended basic linked list implementation to do some pretty cool stuff. Also pla
 * `intro_outro` : inserts an intro and outro before and after a given function return
 
 ## PR Link
-
+[Pull Request](https://github.com/minxie97/pythonisms/pull/1/)
 
 ## Tests
-
+[Tests]()
